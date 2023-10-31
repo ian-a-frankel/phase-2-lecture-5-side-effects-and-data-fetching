@@ -1,39 +1,54 @@
 {
-    "pets": [
-      {
-        "id": 1,
-        "name": "Fido",
-        "image": "./images/dog.jpeg"
-      },
-      {
-        "id": 2,
-        "name": "Kitty",
-        "image": "./images/cat.png"
-      },
-      {
-        "id": 3,
-        "name": "Hammy",
-        "image": "./images/hamster.jpeg"
-      },
-      {
-        "id": 4,
-        "name": "Polly",
-        "image": "./images/parrot.jpeg"
-      },
-      {
-        "id": 5,
-        "name": "Angel",
-        "image": "./images/horse.jpeg"
-      },
-      {
-        "id": 6,
-        "name": "Fluffy",
-        "image": "./images/guinea-pig.jpeg"
-      },
-      {
-        "id": 7,
-        "name": "Goldie",
-        "image": "./images/fish.jpeg"
-      }
-    ]
-  }
+  "pets": [
+    {
+      "id": 1,
+      "name": "Fido",
+      "image": "./images/dog.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "Kitty",
+      "image": "./images/cat.png"
+    },
+    {
+      "id": 3,
+      "name": "Hammy",
+      "image": "./images/hamster.jpeg"
+    },
+    {
+      "id": 4,
+      "name": "Polly",
+      "image": "./images/parrot.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "Angel",
+      "image": "./images/horse.jpeg"
+    },
+    {
+      "id": 6,
+      "name": "Fluffy",
+      "image": "./images/guinea-pig.jpeg"
+    },
+    {
+      "id": 7,
+      "name": "Goldie",
+      "image": "./images/fish.jpeg"
+    },
+    {
+      "name": "Curious George",
+      "image": "https://upload.wikimedia.org/wikipedia/en/d/d8/Curious_George.png",
+      "id": 8
+    },
+    {
+      "name": "Chili Cheese Ramen",
+      "image": "https://www.marionskitchen.com/wp-content/uploads/2023/03/Chilli-Cheese-Ramen-Noodles-02.jpg",
+      "id": 9
+    },
+    {
+      "name": "Curious George",
+      "image": "https://upload.wikimedia.org/wikipedia/en/d/d8/Curious_George.png",
+      "id": 10
+    }
+  ]
+}
